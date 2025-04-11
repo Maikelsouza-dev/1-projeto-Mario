@@ -58,7 +58,8 @@ video{
 }
 p{
     color: azure;
-    
+    padding: 30px;
+    font-size: 20px;
 }
 .link-whatsapp img {
     height: 60px;
